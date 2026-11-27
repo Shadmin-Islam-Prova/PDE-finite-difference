@@ -1,8 +1,4 @@
-# pde-finite-difference
-Finite difference solutions of the heat, wave, Laplace, Poisson and advection equations 
-# Later practiced in Python
-
-# PDE Finite Difference Methods
+# PDE Finite Difference Methods (heat, wave, Laplace, Poisson and advection eq)
 
 Finite difference solutions of five PDEs
 
