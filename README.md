@@ -1,5 +1,6 @@
 # pde-finite-difference
-Finite difference solutions of the heat, wave, Laplace, Poisson and advection equations (initially in R, later practiced in Python)
+Finite difference solutions of the heat, wave, Laplace, Poisson and advection equations 
+# Later practiced in Python
 
 # PDE Finite Difference Methods
 
@@ -52,8 +53,4 @@ R:
 Rscript r/heat.R
 ```
 
-## Author
-
-Shadmin Islam Prova
-Course: DSCRML-508
 
